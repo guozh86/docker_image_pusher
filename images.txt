@@ -1,1 +1,1 @@
-likeflyme/cloudbak
+ghcr.io/seriousm4x/upsnap
