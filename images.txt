@@ -1,1 +1,1 @@
-moviepilot:last
+nginx
