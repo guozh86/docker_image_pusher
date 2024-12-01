@@ -1,1 +1,1 @@
-jackett:last
+docker-jackett
