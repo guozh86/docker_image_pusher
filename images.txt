@@ -1,1 +1,1 @@
-docker-jackett
+linuxserver/docker-jackett
